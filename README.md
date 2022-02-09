@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lind34
+- 👀 I’m a beginner
+- 🌱 I’m currently enroled in HarvardX CS50x course online
+- 📫 You can reach me at lindy4@yandex.com
